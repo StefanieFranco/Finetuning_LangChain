@@ -1,0 +1,19 @@
+# Fine-tuning
+transformers
+peft
+bitsandbytes
+datasets
+accelerate
+torch
+
+# Agentes e Orquestração
+langchain
+langgraph
+langchain-community
+langchain-huggingface
+
+# Relatório e Dados
+pandas
+jupyter
+matplotlib
+python-dotenv

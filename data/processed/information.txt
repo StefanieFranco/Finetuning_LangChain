@@ -1,0 +1,1 @@
+Nesta pasta ficam todos os arquivos já processados LGPD + os processados com relação a json de treinamento
